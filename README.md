@@ -1,2 +1,2 @@
 # EsercizioFineModulo_Looker
-https://lookerstudio.google.com/s/uvO8iOhWB5I
+Link al report: https://lookerstudio.google.com/s/uvO8iOhWB5I
